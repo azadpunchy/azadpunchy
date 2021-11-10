@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azadpunchy
-- 👀 I’m interested To have Full hand on MERN stack development and three.js ... 
+- 👀 I’m interested To have Full hand on MERN stack development, three.js and block Chain Development ... 
 - 🌱 I’m currently learning ...Full Stack MERN Development
 - 💞️ I’m looking to collaborate on ... MERN Stack Projects
 - 📫 How to reach me ... azadpunchy@gmail.com
