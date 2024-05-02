@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Techtronix](https://github.com/ticketmanager)
 
-- 🌱 I’m currently learning **Three.js,AI model Training**
+- 🌱 I’m currently learning **Three.js,Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/azadpunchy?tab=repositories](https://github.com/azadpunchy?tab=repositories)
 
