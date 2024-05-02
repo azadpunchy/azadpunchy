@@ -1,10 +1,19 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Manan</h1>
+<h3 align="center">A passionate SDET and Full stack Javascript Engineer</h3>
 
-## I'm Muhammad Manan Bari
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azadpunchy&label=Profile%20views&color=0e75b6&style=plastic" alt="azadpunchy" /> </p>
 
-- 📫 How to reach me:
-  - [Website](https://www.azadpunchy.com)
-  - [LinkedIn](https://linkedin.com/in/azadpunchy)
+- 🔭 I’m currently working at [Techtronix]([https://github.com/ticket](https://github.com/ticketmanager))
+
+- 🌱 I’m currently learning **Three.js,AI model Training**
+
+- 👨‍💻 All of my projects are available at [https://github.com/azadpunchy?tab=repositories](https://github.com/azadpunchy?tab=repositories)
+
+- 💬 Ask me about **Web/Mobile Automation, MERN stack, JavaScript Technologies**
+
+- 📫 How to reach me **muhammadmananbari@yahoo.com / www.linkedin.com/in/azadpunchy**
+
+- 📄 Know about my experiences [Portfolio](https://www.azadpunchy.com)
 
 ### 🛠 My knowledge
 
