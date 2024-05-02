@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azadpunchy&label=Profile%20views&color=0e75b6&style=plastic" alt="azadpunchy" /> </p>
 
-- 🔭 I’m currently working at [Techtronix]([https://github.com/ticket](https://github.com/ticketmanager))
+- 🔭 I’m currently working at [Techtronix](https://github.com/ticketmanager)
 
 - 🌱 I’m currently learning **Three.js,AI model Training**
 
